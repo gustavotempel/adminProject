@@ -1,2 +1,2 @@
 # adminProject
-Proyecto para aplicación con administración de usuarios
+Proyecto para aplicación de administración de usuarios
